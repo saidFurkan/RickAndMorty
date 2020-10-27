@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="name_description">Character Name</string>
+    <string name="image_description">Character Image</string>
+    <string name="name_demo_text">Name demo text\nName demo text</string>
+    <string name="title"><![CDATA[Rick & Morty]]></string>
+    <string name="exit">X</string>
+    <string name="status">Status</string>
+    <string name="lastLoc">Last Known Location</string>
+    <string name="loadingText">Loading…</string>
+
+</resources>

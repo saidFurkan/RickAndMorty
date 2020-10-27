@@ -1,0 +1,4030 @@
+{
+    "Characters": [
+        {
+            "id": "1",
+            "name": "Rick Sanchez",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "2",
+            "name": "Morty Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "3",
+            "name": "Summer Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "4",
+            "name": "Beth Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "5",
+            "name": "Jerry Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "6",
+            "name": "Abadango Cluster Princess",
+            "status": "Alive",
+            "lastLoc": "Abadango"
+        },
+        {
+            "id": "7",
+            "name": "Abradolf Lincler",
+            "status": "unknown",
+            "lastLoc": "Testicle Monster Dimension"
+        },
+        {
+            "id": "8",
+            "name": "Adjudicator Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "9",
+            "name": "Agency Director",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "10",
+            "name": "Alan Rails",
+            "status": "Dead",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "11",
+            "name": "Albert Einstein",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "12",
+            "name": "Alexander",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "13",
+            "name": "Alien Googah",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "14",
+            "name": "Alien Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "15",
+            "name": "Alien Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "16",
+            "name": "Amish Cyborg",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "17",
+            "name": "Annie",
+            "status": "Alive",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "18",
+            "name": "Antenna Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "19",
+            "name": "Antenna Rick",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "20",
+            "name": "Ants in my Eyes Johnson",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "21",
+            "name": "Aqua Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "22",
+            "name": "Aqua Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "23",
+            "name": "Arcade Alien",
+            "status": "unknown",
+            "lastLoc": "Immortality Field Resort"
+        },
+        {
+            "id": "24",
+            "name": "Armagheadon",
+            "status": "Alive",
+            "lastLoc": "Signus 5 Expanse"
+        },
+        {
+            "id": "25",
+            "name": "Armothy",
+            "status": "Dead",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "26",
+            "name": "Arthricia",
+            "status": "Alive",
+            "lastLoc": "Purge Planet"
+        },
+        {
+            "id": "27",
+            "name": "Artist Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "28",
+            "name": "Attila Starwar",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "29",
+            "name": "Baby Legs",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "30",
+            "name": "Baby Poopybutthole",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "31",
+            "name": "Baby Wizard",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "32",
+            "name": "Bearded Lady",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "33",
+            "name": "Beebo",
+            "status": "Dead",
+            "lastLoc": "Venzenulon 7"
+        },
+        {
+            "id": "34",
+            "name": "Benjamin",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "35",
+            "name": "Bepisian",
+            "status": "Alive",
+            "lastLoc": "Bepis 9"
+        },
+        {
+            "id": "36",
+            "name": "Beta-Seven",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "37",
+            "name": "Beth Sanchez",
+            "status": "Alive",
+            "lastLoc": "Earth (C-500A)"
+        },
+        {
+            "id": "38",
+            "name": "Beth Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "39",
+            "name": "Beth Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "id": "40",
+            "name": "Beth's Mytholog",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "41",
+            "name": "Big Boobed Waitress",
+            "status": "Alive",
+            "lastLoc": "Fantasy World"
+        },
+        {
+            "id": "42",
+            "name": "Big Head Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "43",
+            "name": "Big Morty",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "44",
+            "name": "Body Guard Morty",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "45",
+            "name": "Bill",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "46",
+            "name": "Bill",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "47",
+            "name": "Birdperson",
+            "status": "Dead",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "48",
+            "name": "Black Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "49",
+            "name": "Blamph",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "50",
+            "name": "Blim Blam",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "51",
+            "name": "Blue Diplomat",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "52",
+            "name": "Blue Footprint Guy",
+            "status": "Dead",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "53",
+            "name": "Blue Shirt Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "54",
+            "name": "Bobby Moynihan",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "55",
+            "name": "Boobloosian",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "56",
+            "name": "Bootleg Portal Chemist Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "57",
+            "name": "Borpocian",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "58",
+            "name": "Brad",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "59",
+            "name": "Brad Anderson",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "60",
+            "name": "Calypso",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "61",
+            "name": "Campaign Manager Morty",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "62",
+            "name": "Canklanker Thom",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "63",
+            "name": "Centaur",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "64",
+            "name": "Chris",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "65",
+            "name": "Chris",
+            "status": "Alive",
+            "lastLoc": "Rick's Battery Microverse"
+        },
+        {
+            "id": "66",
+            "name": "Coach Feratu (Balik Alistane)",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "67",
+            "name": "Collector",
+            "status": "Alive",
+            "lastLoc": "The Menagerie"
+        },
+        {
+            "id": "68",
+            "name": "Colossus",
+            "status": "Dead",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "69",
+            "name": "Commander Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "70",
+            "name": "Concerto",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "71",
+            "name": "Conroy",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "72",
+            "name": "Cool Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "73",
+            "name": "Cop Morty",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "74",
+            "name": "Cop Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "75",
+            "name": "Courier Flap",
+            "status": "Alive",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "76",
+            "name": "Cousin Nicky",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "77",
+            "name": "Cowboy Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "78",
+            "name": "Cowboy Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "79",
+            "name": "Crab Spider",
+            "status": "Alive",
+            "lastLoc": "Hideout Planet"
+        },
+        {
+            "id": "80",
+            "name": "Creepy Little Girl",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "81",
+            "name": "Crocubot",
+            "status": "Dead",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "82",
+            "name": "Cronenberg Rick",
+            "status": "unknown",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "83",
+            "name": "Cronenberg Morty",
+            "status": "unknown",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "84",
+            "name": "Cult Leader Morty",
+            "status": "Alive",
+            "lastLoc": "Hideout Planet"
+        },
+        {
+            "id": "85",
+            "name": "Cyclops Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "86",
+            "name": "Cyclops Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "87",
+            "name": "Cynthia",
+            "status": "Dead",
+            "lastLoc": "Zigerion's Base"
+        },
+        {
+            "id": "88",
+            "name": "Cynthia",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "89",
+            "name": "Dale",
+            "status": "Dead",
+            "lastLoc": "Giant's Town"
+        },
+        {
+            "id": "90",
+            "name": "Daron Jefferson",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "91",
+            "name": "David Letterman",
+            "status": "Alive",
+            "lastLoc": "Earth (C-500A)"
+        },
+        {
+            "id": "92",
+            "name": "Davin",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "93",
+            "name": "Diablo Verde",
+            "status": "Dead",
+            "lastLoc": "Dorian 5"
+        },
+        {
+            "id": "94",
+            "name": "Diane Sanchez",
+            "status": "unknown",
+            "lastLoc": "Earth (Unknown dimension)"
+        },
+        {
+            "id": "95",
+            "name": "Dipper and Mabel Mortys",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "96",
+            "name": "Tuberculosis",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "97",
+            "name": "Gonorrhea",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "98",
+            "name": "Hepatitis A",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "99",
+            "name": "Hepatitis C",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "100",
+            "name": "Bubonic Plague",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "101",
+            "name": "E. Coli",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "102",
+            "name": "Donna Gueterman",
+            "status": "Dead",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "103",
+            "name": "Doofus Rick",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "104",
+            "name": "Doom-Nomitron",
+            "status": "Dead",
+            "lastLoc": "Dorian 5"
+        },
+        {
+            "id": "105",
+            "name": "Dr. Glip-Glop",
+            "status": "Dead",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "106",
+            "name": "Dr. Schmidt",
+            "status": "unknown",
+            "lastLoc": "Roy: A Life Well Lived"
+        },
+        {
+            "id": "107",
+            "name": "Dr. Wong",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "108",
+            "name": "Dr. Xenon Bloom",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "109",
+            "name": "Duck With Muscles",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "110",
+            "name": "Eli",
+            "status": "Alive",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "111",
+            "name": "Eli's Girlfriend",
+            "status": "Alive",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "112",
+            "name": "Eric McMan",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "113",
+            "name": "Eric Stoltz Mask Morty",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "114",
+            "name": "Ethan",
+            "status": "unknown",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "115",
+            "name": "Ethan",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "116",
+            "name": "Evil Beth Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "117",
+            "name": "Evil Jerry Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "118",
+            "name": "Evil Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "119",
+            "name": "Evil Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "120",
+            "name": "Evil Summer Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "121",
+            "name": "Eyehole Man",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "122",
+            "name": "Fart",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "123",
+            "name": "Fat Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "124",
+            "name": "Father Bob",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "125",
+            "name": "Flansian",
+            "status": "Alive",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "126",
+            "name": "Fleeb",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "127",
+            "name": "Frank Palicky",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "128",
+            "name": "Frankenstein's Monster",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "129",
+            "name": "Fulgora",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "130",
+            "name": "Galactic Federation President",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "131",
+            "name": "Gar Gloonch",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "132",
+            "name": "Gar's Mytholog",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "133",
+            "name": "Garblovian",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "134",
+            "name": "Garmanarnar",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "135",
+            "name": "Garment District Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "136",
+            "name": "Gazorpazorpfield",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "137",
+            "name": "Gene",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "138",
+            "name": "General Nathan",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "139",
+            "name": "General Store Owner",
+            "status": "Dead",
+            "lastLoc": "Purge Planet"
+        },
+        {
+            "id": "140",
+            "name": "Genital Washer",
+            "status": "Alive",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "141",
+            "name": "Ghost in a Jar",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "142",
+            "name": "Gibble Snake",
+            "status": "Dead",
+            "lastLoc": "Resort Planet"
+        },
+        {
+            "id": "143",
+            "name": "Glasses Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "144",
+            "name": "Glenn",
+            "status": "Dead",
+            "lastLoc": "Interdimensional Customs"
+        },
+        {
+            "id": "145",
+            "name": "Glenn",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "146",
+            "name": "Glexo Slim Slom",
+            "status": "Alive",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "147",
+            "name": "Gobo",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "148",
+            "name": "Goddess Beth",
+            "status": "unknown",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "149",
+            "name": "Gordon Lunas",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "150",
+            "name": "Cornvelious Daniel",
+            "status": "Dead",
+            "lastLoc": "Galactic Federation Prison"
+        },
+        {
+            "id": "151",
+            "name": "Gwendolyn",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "152",
+            "name": "Hammerhead Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "153",
+            "name": "Hamster In Butt",
+            "status": "Alive",
+            "lastLoc": "Hamster in Butt World"
+        },
+        {
+            "id": "154",
+            "name": "Hamurai",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "155",
+            "name": "Harold",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "156",
+            "name": "Hemorrhage",
+            "status": "Alive",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "157",
+            "name": "Hole in the Wall Where the Men Can See it All",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "158",
+            "name": "Hookah Alien",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Customs"
+        },
+        {
+            "id": "159",
+            "name": "Hunter",
+            "status": "Dead",
+            "lastLoc": "Earth (Giant Telepathic Spiders Dimension)"
+        },
+        {
+            "id": "160",
+            "name": "Hunter's Father",
+            "status": "Alive",
+            "lastLoc": "Earth (Giant Telepathic Spiders Dimension)"
+        },
+        {
+            "id": "161",
+            "name": "Hydrogen-F",
+            "status": "Alive",
+            "lastLoc": "Alphabetrium"
+        },
+        {
+            "id": "162",
+            "name": "Ice-T",
+            "status": "Alive",
+            "lastLoc": "Alphabetrium"
+        },
+        {
+            "id": "163",
+            "name": "Ideal Jerry",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "164",
+            "name": "Insurance Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "165",
+            "name": "Investigator Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "166",
+            "name": "Invisi-trooper",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "167",
+            "name": "Izzy",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "168",
+            "name": "Jackie",
+            "status": "Alive",
+            "lastLoc": "Gazorpazorp"
+        },
+        {
+            "id": "169",
+            "name": "Jacob",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "170",
+            "name": "Jacqueline",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "171",
+            "name": "Jaguar",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "172",
+            "name": "Jamey",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "173",
+            "name": "Jan-Michael Vincent",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "174",
+            "name": "Jerry 5-126",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "175",
+            "name": "Jerry Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "176",
+            "name": "Celebrity Jerry",
+            "status": "Alive",
+            "lastLoc": "Earth (C-500A)"
+        },
+        {
+            "id": "177",
+            "name": "Jerry Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "id": "178",
+            "name": "Jerry's Mytholog",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "179",
+            "name": "Jessica",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "180",
+            "name": "Jessica",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "181",
+            "name": "Jessica's Friend",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "182",
+            "name": "Jim",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "183",
+            "name": "Johnny Depp",
+            "status": "Alive",
+            "lastLoc": "Earth (C-500A)"
+        },
+        {
+            "id": "184",
+            "name": "Jon",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "185",
+            "name": "Joseph Eli Lipkip",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "186",
+            "name": "Joyce Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "187",
+            "name": "Juggling Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "188",
+            "name": "Karen Entity",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "189",
+            "name": "Katarina",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "190",
+            "name": "Keara",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "191",
+            "name": "Kevin",
+            "status": "Dead",
+            "lastLoc": "Zigerion's Base"
+        },
+        {
+            "id": "192",
+            "name": "King Flippy Nips",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "193",
+            "name": "King Jellybean",
+            "status": "Dead",
+            "lastLoc": "Fantasy World"
+        },
+        {
+            "id": "194",
+            "name": "Kozbian",
+            "status": "Alive",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "195",
+            "name": "Kristen Stewart",
+            "status": "Alive",
+            "lastLoc": "Earth (C-500A)"
+        },
+        {
+            "id": "196",
+            "name": "Krombopulos Michael",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "197",
+            "name": "Kyle",
+            "status": "Dead",
+            "lastLoc": "Kyle's Teenyverse"
+        },
+        {
+            "id": "198",
+            "name": "Lady Katana",
+            "status": "Dead",
+            "lastLoc": "Dorian 5"
+        },
+        {
+            "id": "199",
+            "name": "Larva Alien",
+            "status": "Alive",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "200",
+            "name": "Lawyer Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "201",
+            "name": "Leonard Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "202",
+            "name": "Lighthouse Keeper",
+            "status": "Dead",
+            "lastLoc": "Purge Planet"
+        },
+        {
+            "id": "203",
+            "name": "Lil B",
+            "status": "Dead",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "204",
+            "name": "Lisa",
+            "status": "Dead",
+            "lastLoc": "Immortality Field Resort"
+        },
+        {
+            "id": "205",
+            "name": "Little Dipper",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "206",
+            "name": "Lizard Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "207",
+            "name": "Loggins",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "208",
+            "name": "Logic",
+            "status": "Alive",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "209",
+            "name": "Long Sleeved Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "210",
+            "name": "Lucy",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "211",
+            "name": "Ma-Sha",
+            "status": "Alive",
+            "lastLoc": "Gazorpazorp"
+        },
+        {
+            "id": "212",
+            "name": "Magma-Q",
+            "status": "Dead",
+            "lastLoc": "Alphabetrium"
+        },
+        {
+            "id": "213",
+            "name": "Magnesium-J",
+            "status": "Alive",
+            "lastLoc": "Alphabetrium"
+        },
+        {
+            "id": "214",
+            "name": "Man Painted Silver Who Makes Robot Noises",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "215",
+            "name": "Maximums Rickimus",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "216",
+            "name": "MC Haps",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "217",
+            "name": "Mechanical Morty",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "218",
+            "name": "Mechanical Rick",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "219",
+            "name": "Mechanical Summer",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "220",
+            "name": "Mega Fruit Farmer Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "221",
+            "name": "Melissa",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "222",
+            "name": "Michael Denny and the Denny Singers",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "223",
+            "name": "Michael Jenkins",
+            "status": "Dead",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "224",
+            "name": "Michael McLick",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "225",
+            "name": "Michael Thompson",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "226",
+            "name": "Million Ants",
+            "status": "Dead",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "227",
+            "name": "Mitch",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "228",
+            "name": "Mohawk Guy",
+            "status": "Dead",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "229",
+            "name": "Morty Mart Manager Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "230",
+            "name": "Morty Jr.",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "231",
+            "name": "Morty Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "232",
+            "name": "Morty Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "id": "233",
+            "name": "Morty K-22",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "234",
+            "name": "Morty Smith",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "235",
+            "name": "Mortytown Loco",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "236",
+            "name": "Mr. Beauregard",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "237",
+            "name": "Mr. Benson",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "238",
+            "name": "Mr. Booby Buyer",
+            "status": "Alive",
+            "lastLoc": "Fantasy World"
+        },
+        {
+            "id": "239",
+            "name": "Mr. Goldenfold",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "240",
+            "name": "Mr. Goldenfold",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "241",
+            "name": "Mr. Marklovitz",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "242",
+            "name": "Mr. Meeseeks",
+            "status": "unknown",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "243",
+            "name": "Mr. Needful",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "244",
+            "name": "Mr. Poopybutthole",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "245",
+            "name": "Mrs. Lipkip",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "246",
+            "name": "Mrs. Pancakes",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "247",
+            "name": "Mrs. Poopybutthole",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "248",
+            "name": "Mrs. Refrigerator",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "249",
+            "name": "Mrs. Sanchez",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "250",
+            "name": "Mrs. Sullivan",
+            "status": "Dead",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "251",
+            "name": "Nancy",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "252",
+            "name": "Noob-Noob",
+            "status": "Alive",
+            "lastLoc": "Vindicator's Base"
+        },
+        {
+            "id": "253",
+            "name": "Numbericon",
+            "status": "unknown",
+            "lastLoc": "Alphabetrium"
+        },
+        {
+            "id": "254",
+            "name": "Octopus Man",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "255",
+            "name": "Orthodox Jew",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "256",
+            "name": "Pat Gueterman",
+            "status": "Dead",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "257",
+            "name": "Paul Fleishman",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "258",
+            "name": "Pawnshop Clerk",
+            "status": "Alive",
+            "lastLoc": "Pawn Shop Planet"
+        },
+        {
+            "id": "259",
+            "name": "Pencilvester",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "260",
+            "name": "Phillip Jacobs",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "261",
+            "name": "Photography Cyborg",
+            "status": "unknown",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "262",
+            "name": "Photography Raptor",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "263",
+            "name": "Pibbles Bodyguard",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "264",
+            "name": "Pichael Thompson",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "265",
+            "name": "Pickle Rick",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "266",
+            "name": "Piece of Toast",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "267",
+            "name": "Plumber Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "268",
+            "name": "Poncho",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "269",
+            "name": "Presidentress of The Mega Gargantuans",
+            "status": "Alive",
+            "lastLoc": "Mega Gargantuan Kingdom"
+        },
+        {
+            "id": "270",
+            "name": "Prince Nebulon",
+            "status": "Dead",
+            "lastLoc": "Zigerion's Base"
+        },
+        {
+            "id": "271",
+            "name": "Principal Vagina",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "272",
+            "name": "Principal Vagina",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "273",
+            "name": "Purge Planet Ruler",
+            "status": "Dead",
+            "lastLoc": "Purge Planet"
+        },
+        {
+            "id": "274",
+            "name": "Quantum Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "275",
+            "name": "Randy Dicknose",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "276",
+            "name": "Rat Boss",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "277",
+            "name": "Real Fake Doors Salesman",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "278",
+            "name": "Regional Manager Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "279",
+            "name": "Regular Legs",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "280",
+            "name": "Reverse Giraffe",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "281",
+            "name": "Reverse Rick Outrage",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "282",
+            "name": "Revolio Clockberg Jr.",
+            "status": "unknown",
+            "lastLoc": "Gear World"
+        },
+        {
+            "id": "283",
+            "name": "Rick D. Sanchez III",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "284",
+            "name": "Rick Guilt Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "285",
+            "name": "Rick Prime",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "286",
+            "name": "Rick D-99",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "287",
+            "name": "Rick D716",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "288",
+            "name": "Rick D716-B",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "289",
+            "name": "Rick D716-C",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "290",
+            "name": "Rick Sanchez",
+            "status": "Dead",
+            "lastLoc": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "id": "291",
+            "name": "Rick J-22",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "292",
+            "name": "Rick K-22",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "293",
+            "name": "Rick Sanchez",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "294",
+            "name": "Ricktiminus Sancheziminius",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "295",
+            "name": "Riq IV",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "296",
+            "name": "Risotto Groupon",
+            "status": "Dead",
+            "lastLoc": "Resort Planet"
+        },
+        {
+            "id": "297",
+            "name": "Risotto's Tentacled Henchman",
+            "status": "Dead",
+            "lastLoc": "Resort Planet"
+        },
+        {
+            "id": "298",
+            "name": "Robot Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "299",
+            "name": "Robot Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "300",
+            "name": "Roger",
+            "status": "Dead",
+            "lastLoc": "Anatomy Park"
+        },
+        {
+            "id": "301",
+            "name": "Ron Benson",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "302",
+            "name": "Ruben",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "303",
+            "name": "Samantha",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "304",
+            "name": "Scary Brandon",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "305",
+            "name": "Scary Glenn",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "306",
+            "name": "Scary Terry",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "307",
+            "name": "Scroopy Noopers",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "308",
+            "name": "Scropon",
+            "status": "unknown",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "309",
+            "name": "Scrotian",
+            "status": "Alive",
+            "lastLoc": "Signus 5 Expanse"
+        },
+        {
+            "id": "310",
+            "name": "Self-Congratulatory Jerry",
+            "status": "unknown",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "311",
+            "name": "Shimshamian",
+            "status": "Alive",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "312",
+            "name": "Shlaammi",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "313",
+            "name": "Shleemypants",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "314",
+            "name": "Shmlamantha Shmlicelli",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "315",
+            "name": "Shmlangela Shmlobinson-Shmlower",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "316",
+            "name": "Shmlona Shmlobinson",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "317",
+            "name": "Shmlonathan Shmlower",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "318",
+            "name": "Shmlony Shmlicelli",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "319",
+            "name": "Shmooglite Runner",
+            "status": "unknown",
+            "lastLoc": "Resort Planet"
+        },
+        {
+            "id": "320",
+            "name": "Shnoopy Bloopers",
+            "status": "unknown",
+            "lastLoc": "Immortality Field Resort"
+        },
+        {
+            "id": "321",
+            "name": "Shrimply Pibbles",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "322",
+            "name": "Simple Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "323",
+            "name": "Slaveowner",
+            "status": "Dead",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "324",
+            "name": "Sleepy Gary",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "325",
+            "name": "Slick Morty",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "326",
+            "name": "Slippery Stair",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "327",
+            "name": "Slow Mobius",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "328",
+            "name": "Slow Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "329",
+            "name": "Snuffles (Snowball)",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "330",
+            "name": "Solicitor Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "331",
+            "name": "Squanchy",
+            "status": "unknown",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "332",
+            "name": "Stacy",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "333",
+            "name": "Stair Goblin",
+            "status": "Alive",
+            "lastLoc": "Fantasy World"
+        },
+        {
+            "id": "334",
+            "name": "Stealy",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "335",
+            "name": "Steve",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "336",
+            "name": "Steven Phillips",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "337",
+            "name": "Stu",
+            "status": "Dead",
+            "lastLoc": "Zigerion's Base"
+        },
+        {
+            "id": "338",
+            "name": "Summer Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "339",
+            "name": "Summer Smith",
+            "status": "Alive",
+            "lastLoc": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "id": "340",
+            "name": "Supernova",
+            "status": "Alive",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "341",
+            "name": "Taddy Mason",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "342",
+            "name": "Taint Washer",
+            "status": "Alive",
+            "lastLoc": "Post-Apocalyptic Earth"
+        },
+        {
+            "id": "343",
+            "name": "Tammy Guetermann",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "344",
+            "name": "Tammy Guetermann",
+            "status": "Dead",
+            "lastLoc": "NX-5 Planet Remover"
+        },
+        {
+            "id": "345",
+            "name": "Teacher Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "346",
+            "name": "Terry",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "347",
+            "name": "The President",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "348",
+            "name": "The President of the Miniverse",
+            "status": "Dead",
+            "lastLoc": "Zeep Xanflorp's Miniverse"
+        },
+        {
+            "id": "349",
+            "name": "The Scientist Formerly Known as Rick",
+            "status": "Dead",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "350",
+            "name": "Thomas Lipkip",
+            "status": "unknown",
+            "lastLoc": "Froopyland"
+        },
+        {
+            "id": "351",
+            "name": "Three Unknown Things",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "352",
+            "name": "Tinkles",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "353",
+            "name": "Tiny Rick",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "354",
+            "name": "Toby Matthews",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "355",
+            "name": "Todd Crystal",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "356",
+            "name": "Tom Randolph",
+            "status": "Alive",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "357",
+            "name": "Tommy's Clone",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "358",
+            "name": "Tophat Jones",
+            "status": "Dead",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "359",
+            "name": "Tortured Morty",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "360",
+            "name": "Toxic Morty",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "361",
+            "name": "Toxic Rick",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "362",
+            "name": "Traflorkian",
+            "status": "Alive",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "363",
+            "name": "Trandor",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "364",
+            "name": "Tree Person",
+            "status": "Dead",
+            "lastLoc": "Kyle's Teenyverse"
+        },
+        {
+            "id": "365",
+            "name": "Tricia Lange",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "366",
+            "name": "Trunk Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "367",
+            "name": "Trunk Man",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "368",
+            "name": "Truth Tortoise",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "369",
+            "name": "Tusked Assassin",
+            "status": "unknown",
+            "lastLoc": "Resort Planet"
+        },
+        {
+            "id": "370",
+            "name": "Two Guys with Handlebar Mustaches",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "371",
+            "name": "Tumblorkian",
+            "status": "Alive",
+            "lastLoc": "Plopstar"
+        },
+        {
+            "id": "372",
+            "name": "Unity",
+            "status": "Alive",
+            "lastLoc": "Unity's Planet"
+        },
+        {
+            "id": "373",
+            "name": "Unmuscular Michael",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "374",
+            "name": "Vampire Master",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "375",
+            "name": "Vance Maximus",
+            "status": "Dead",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "376",
+            "name": "Veronica Ann Bennet",
+            "status": "Alive",
+            "lastLoc": "Gazorpazorp"
+        },
+        {
+            "id": "377",
+            "name": "Voltematron",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "378",
+            "name": "Wall Crawling Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "379",
+            "name": "Wedding Bartender",
+            "status": "unknown",
+            "lastLoc": "Planet Squanch"
+        },
+        {
+            "id": "380",
+            "name": "Weird Rick",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "381",
+            "name": "Woman Rick",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "382",
+            "name": "Worldender",
+            "status": "Dead",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "383",
+            "name": "Yaarb",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "384",
+            "name": "Yellow Headed Doctor",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "385",
+            "name": "Yellow Shirt Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "386",
+            "name": "Zarbadar Gloonch",
+            "status": "Dead",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "387",
+            "name": "Zarbadar's Mytholog",
+            "status": "unknown",
+            "lastLoc": "Nuptia 4"
+        },
+        {
+            "id": "388",
+            "name": "Zeep Xanflorp",
+            "status": "Alive",
+            "lastLoc": "Rick's Battery Microverse"
+        },
+        {
+            "id": "389",
+            "name": "Zeta Alpha Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "390",
+            "name": "Zick Zack",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "391",
+            "name": "Uncle Steve",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "392",
+            "name": "Bearded Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "393",
+            "name": "Roy",
+            "status": "Alive",
+            "lastLoc": "Roy: A Life Well Lived"
+        },
+        {
+            "id": "394",
+            "name": "Davin",
+            "status": "Dead",
+            "lastLoc": "Earth (C-137)"
+        },
+        {
+            "id": "395",
+            "name": "Greebybobe",
+            "status": "Alive",
+            "lastLoc": "Worldender's lair"
+        },
+        {
+            "id": "396",
+            "name": "Scary Teacher",
+            "status": "Alive",
+            "lastLoc": "Mr. Goldenfold's dream"
+        },
+        {
+            "id": "397",
+            "name": "Fido",
+            "status": "Alive",
+            "lastLoc": "Snuffles' Dream"
+        },
+        {
+            "id": "398",
+            "name": "Accountant dog",
+            "status": "Alive",
+            "lastLoc": "Snuffles' Dream"
+        },
+        {
+            "id": "399",
+            "name": "Tiny-persons advocacy group lawyer",
+            "status": "Alive",
+            "lastLoc": "Giant's Town"
+        },
+        {
+            "id": "400",
+            "name": "Giant Judge",
+            "status": "Alive",
+            "lastLoc": "Giant's Town"
+        },
+        {
+            "id": "401",
+            "name": "Morty Jr's interviewer",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "402",
+            "name": "Guy from The Bachelor",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "403",
+            "name": "Corn detective",
+            "status": "Dead",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "404",
+            "name": "Michael Jackson",
+            "status": "Alive",
+            "lastLoc": "Earth (Phone Dimension)"
+        },
+        {
+            "id": "405",
+            "name": "Trunkphobic suspenders guy",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "406",
+            "name": "Spiderweb teddy bear",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "407",
+            "name": "Regular Tyrion Lannister",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "408",
+            "name": "Quick Mystery Presenter",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "409",
+            "name": "Mr. Sneezy",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "410",
+            "name": "Two Brothers",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "411",
+            "name": "Alien Mexican Armada",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "412",
+            "name": "Giant Cat Monster",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "413",
+            "name": "Old Women",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "414",
+            "name": "Trunkphobic guy",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "415",
+            "name": "Pro trunk people marriage guy",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "416",
+            "name": "Muscular Mannie",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "417",
+            "name": "Baby Legs Chief",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "418",
+            "name": "Mrs. Sullivan's Boyfriend",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "419",
+            "name": "Plutonian Hostess",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "420",
+            "name": "Plutonian Host",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "421",
+            "name": "Rich Plutonian",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "422",
+            "name": "Rich Plutonian",
+            "status": "Alive",
+            "lastLoc": "Pluto"
+        },
+        {
+            "id": "423",
+            "name": "Synthetic Laser Eels",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "424",
+            "name": "Pizza-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Pizza Dimension)"
+        },
+        {
+            "id": "425",
+            "name": "Pizza-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Pizza Dimension)"
+        },
+        {
+            "id": "426",
+            "name": "Greasy Grandma",
+            "status": "Alive",
+            "lastLoc": "Greasy Grandma World"
+        },
+        {
+            "id": "427",
+            "name": "Phone-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Phone Dimension)"
+        },
+        {
+            "id": "428",
+            "name": "Phone-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Phone Dimension)"
+        },
+        {
+            "id": "429",
+            "name": "Chair-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Chair Dimension)"
+        },
+        {
+            "id": "430",
+            "name": "Chair-person",
+            "status": "Alive",
+            "lastLoc": "Earth (Chair Dimension)"
+        },
+        {
+            "id": "431",
+            "name": "Chair-homeless",
+            "status": "Alive",
+            "lastLoc": "Earth (Chair Dimension)"
+        },
+        {
+            "id": "432",
+            "name": "Chair-waiter",
+            "status": "Alive",
+            "lastLoc": "Earth (Chair Dimension)"
+        },
+        {
+            "id": "433",
+            "name": "Doopidoo",
+            "status": "Alive",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "434",
+            "name": "Super Weird Rick",
+            "status": "unknown",
+            "lastLoc": "unknown"
+        },
+        {
+            "id": "435",
+            "name": "Pripudlian",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "436",
+            "name": "Giant Testicle Monster",
+            "status": "Alive",
+            "lastLoc": "Testicle Monster Dimension"
+        },
+        {
+            "id": "437",
+            "name": "Michael",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "438",
+            "name": "Michael's Lawyer",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "439",
+            "name": "Veterinary",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "440",
+            "name": "Veterinary Nurse",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "441",
+            "name": "Bearded Jerry",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "442",
+            "name": "Shaved Head Jerry",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "443",
+            "name": "Tank Top Jerry",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "444",
+            "name": "Pink Polo Shirt Jerry",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "445",
+            "name": "Jerryboree Keeper",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "446",
+            "name": "Jerryboree Receptionist",
+            "status": "Alive",
+            "lastLoc": "Jerryboree"
+        },
+        {
+            "id": "447",
+            "name": "Anchor Gear",
+            "status": "Alive",
+            "lastLoc": "Gear World"
+        },
+        {
+            "id": "448",
+            "name": "Gear Cop",
+            "status": "Dead",
+            "lastLoc": "Gear World"
+        },
+        {
+            "id": "449",
+            "name": "Roy's Mum",
+            "status": "Alive",
+            "lastLoc": "Roy: A Life Well Lived"
+        },
+        {
+            "id": "450",
+            "name": "Roy's Wife",
+            "status": "Alive",
+            "lastLoc": "Roy: A Life Well Lived"
+        },
+        {
+            "id": "451",
+            "name": "Roy's Son",
+            "status": "Alive",
+            "lastLoc": "Roy: A Life Well Lived"
+        },
+        {
+            "id": "452",
+            "name": "Simon",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "453",
+            "name": "Vampire Master's Assistant",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "454",
+            "name": "Arbolian Mentirososian",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "455",
+            "name": "St. Gloopy Noops Nurse",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "456",
+            "name": "Nano Doctor",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "457",
+            "name": "Funny Songs Presenter",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "458",
+            "name": "Tax Attorney",
+            "status": "unknown",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "459",
+            "name": "Butthole Ice Cream Guy",
+            "status": "Alive",
+            "lastLoc": "Interdimensional Cable"
+        },
+        {
+            "id": "460",
+            "name": "Traflorkian Journalist",
+            "status": "Alive",
+            "lastLoc": "St. Gloopy Noops Hospital"
+        },
+        {
+            "id": "461",
+            "name": "Communication's Responsible Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "462",
+            "name": "Teleportation's Responsible Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "463",
+            "name": "SEAL Team Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "464",
+            "name": "SEAL Team Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "465",
+            "name": "SEAL Team Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "466",
+            "name": "SEAL Team Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "467",
+            "name": "Morphizer-XE Customer Support",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "468",
+            "name": "Morphizer-XE Customer Support",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "469",
+            "name": "Morphizer-XE Customer Support",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "470",
+            "name": "Alien Spa Employee",
+            "status": "Alive",
+            "lastLoc": "Alien Day Spa"
+        },
+        {
+            "id": "471",
+            "name": "Little Voltron",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "472",
+            "name": "Baby Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "473",
+            "name": "Bartender Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "474",
+            "name": "Dancer Cowboy Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "475",
+            "name": "Dancer Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "476",
+            "name": "Flower Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "477",
+            "name": "Hairdresser Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "478",
+            "name": "Journalist Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "479",
+            "name": "Private Sector Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "480",
+            "name": "Purple Morty",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "481",
+            "name": "Retired General Rick",
+            "status": "unknown",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "482",
+            "name": "Secret Service Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "483",
+            "name": "Steve Jobs Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "484",
+            "name": "Sheik Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "485",
+            "name": "Modern Rick",
+            "status": "Alive",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "486",
+            "name": "Tan Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "487",
+            "name": "Visor Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "488",
+            "name": "Colonial Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "489",
+            "name": "P-Coat Rick",
+            "status": "Dead",
+            "lastLoc": "Citadel of Ricks"
+        },
+        {
+            "id": "490",
+            "name": "Chang",
+            "status": "Alive",
+            "lastLoc": "The Menagerie"
+        },
+        {
+            "id": "491",
+            "name": "Dr. Eleanor Arroway",
+            "status": "Alive",
+            "lastLoc": "The Menagerie"
+        },
+        {
+            "id": "492",
+            "name": "Varrix",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "493",
+            "name": "Secretary of the Interior",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "494",
+            "name": "Crystal Poacher",
+            "status": "Dead",
+            "lastLoc": "Forbodulon Prime"
+        },
+        {
+            "id": "495",
+            "name": "Crystal Poacher",
+            "status": "Dead",
+            "lastLoc": "Forbodulon Prime"
+        },
+        {
+            "id": "496",
+            "name": "Crystal Poacher",
+            "status": "Dead",
+            "lastLoc": "Forbodulon Prime"
+        },
+        {
+            "id": "497",
+            "name": "Hologram Rick",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "498",
+            "name": "Fascist Rick",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "499",
+            "name": "Fascist Morty",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "500",
+            "name": "Fascist Mr. President",
+            "status": "Alive",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "501",
+            "name": "Fascist Rick�s Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "502",
+            "name": "Revolio Clockberg Jr.",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Dimension)"
+        },
+        {
+            "id": "503",
+            "name": "Fascist Shrimp Rick",
+            "status": "Alive",
+            "lastLoc": "Earth (Fascist Shrimp Dimension)"
+        },
+        {
+            "id": "504",
+            "name": "Fascist Shrimp Rick�s Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Shrimp Dimension)"
+        },
+        {
+            "id": "505",
+            "name": "Fascist Shrimp Morty",
+            "status": "Alive",
+            "lastLoc": "Earth (Fascist Shrimp Dimension)"
+        },
+        {
+            "id": "506",
+            "name": "Fascist Shrimp SS",
+            "status": "Alive",
+            "lastLoc": "Earth (Fascist Shrimp Dimension)"
+        },
+        {
+            "id": "507",
+            "name": "Fascist Teddy Bear Rick",
+            "status": "Alive",
+            "lastLoc": "Earth (Fascist Teddy Bear Dimension)"
+        },
+        {
+            "id": "508",
+            "name": "Fascist Teddy Bear Rick�s Clone",
+            "status": "Dead",
+            "lastLoc": "Earth (Fascist Teddy Bear Dimension)"
+        },
+        {
+            "id": "509",
+            "name": "Bully",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "510",
+            "name": "Anchorman",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "511",
+            "name": "Anchorwoman",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "512",
+            "name": "Morty�s Lawyer",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "513",
+            "name": "Judge",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "514",
+            "name": "Public Opinion Judge",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "515",
+            "name": "Caterpillar Mr. Goldenfold",
+            "status": "Dead",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "516",
+            "name": "Wasp Rick",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "517",
+            "name": "Wasp Rick�s Clone",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "518",
+            "name": "Wasp Morty",
+            "status": "Alive",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "519",
+            "name": "Wasp Summer",
+            "status": "Alive",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "520",
+            "name": "Wasp Jerry",
+            "status": "Alive",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "521",
+            "name": "Wasp Beth",
+            "status": "Alive",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "522",
+            "name": "Caterpillar Mr. Goldenfold�s Larvae",
+            "status": "Dead",
+            "lastLoc": "Earth (Wasp Dimension)"
+        },
+        {
+            "id": "523",
+            "name": "Boglin",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "524",
+            "name": "Kirkland Brand Mr. Meeseeks",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "525",
+            "name": "Glootie",
+            "status": "Alive",
+            "lastLoc": "Monogatron Mothership"
+        },
+        {
+            "id": "526",
+            "name": "Danny Publitz",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "527",
+            "name": "Mothership Intern",
+            "status": "Alive",
+            "lastLoc": "Monogatron Mothership"
+        },
+        {
+            "id": "528",
+            "name": "Monogatron Leader",
+            "status": "Alive",
+            "lastLoc": "Monogatron Mothership"
+        },
+        {
+            "id": "529",
+            "name": "Lizard",
+            "status": "Dead",
+            "lastLoc": "Midland Quasar"
+        },
+        {
+            "id": "530",
+            "name": "Deliverance",
+            "status": "Dead",
+            "lastLoc": "Midland Quasar"
+        },
+        {
+            "id": "531",
+            "name": "Tony",
+            "status": "Dead",
+            "lastLoc": "Mount Space Everest"
+        },
+        {
+            "id": "532",
+            "name": "Tony�s Wife",
+            "status": "Dead",
+            "lastLoc": "Globaflyn"
+        },
+        {
+            "id": "533",
+            "name": "Monogatron Queen",
+            "status": "Alive",
+            "lastLoc": "Monogatron Mothership"
+        },
+        {
+            "id": "534",
+            "name": "Tony's Dad",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "535",
+            "name": "Jeff",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "536",
+            "name": "Josiah",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "537",
+            "name": "Maggie",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "538",
+            "name": "Priest Witherspoon",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "539",
+            "name": "Richard",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "540",
+            "name": "Running Bird",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "541",
+            "name": "Secretary at Tony's",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "542",
+            "name": "Mountain Sweat Jerry",
+            "status": "Alive",
+            "lastLoc": "Globaflyn"
+        },
+        {
+            "id": "543",
+            "name": "Vermigurber",
+            "status": "Alive",
+            "lastLoc": "Gorgon Quadrant"
+        },
+        {
+            "id": "544",
+            "name": "Miles Knightly",
+            "status": "Dead",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "545",
+            "name": "Heist-Con Receptionist",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "546",
+            "name": "Angie Flint",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "547",
+            "name": "Glar",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "548",
+            "name": "Truckula",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "549",
+            "name": "Snake Arms",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "550",
+            "name": "Double Microwawe",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "551",
+            "name": "Monitor Lord",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "552",
+            "name": "Key Catcher",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "553",
+            "name": "The Shapeshiftress",
+            "status": "Alive",
+            "lastLoc": "Heist-Con"
+        },
+        {
+            "id": "554",
+            "name": "Heistotron",
+            "status": "Dead",
+            "lastLoc": "Heistotron Base"
+        },
+        {
+            "id": "555",
+            "name": "Randotron",
+            "status": "Dead",
+            "lastLoc": "Heistotron Base"
+        },
+        {
+            "id": "556",
+            "name": "Hephaestus",
+            "status": "Alive",
+            "lastLoc": "Heistotron Base"
+        },
+        {
+            "id": "557",
+            "name": "Ventriloquiver",
+            "status": "Alive",
+            "lastLoc": "Heistotron Base"
+        },
+        {
+            "id": "558",
+            "name": "Elon Tusk",
+            "status": "Alive",
+            "lastLoc": "Heistotron Base"
+        },
+        {
+            "id": "559",
+            "name": "Gramuflackian Anchorman",
+            "status": "Dead",
+            "lastLoc": "Gramuflack"
+        },
+        {
+            "id": "560",
+            "name": "Gramuflackian General",
+            "status": "Dead",
+            "lastLoc": "Gramuflack"
+        },
+        {
+            "id": "561",
+            "name": "Netflix Executive",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "562",
+            "name": "Balthromaw",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "563",
+            "name": "The Wizard",
+            "status": "Dead",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "564",
+            "name": "Talking Cat",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "565",
+            "name": "Debrah",
+            "status": "Alive",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "566",
+            "name": "Debrah�s Partner",
+            "status": "Alive",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "567",
+            "name": "Michael",
+            "status": "Alive",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "568",
+            "name": "Slut Dragon",
+            "status": "Alive",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "569",
+            "name": "Shadow Jacker",
+            "status": "Alive",
+            "lastLoc": "Draygon"
+        },
+        {
+            "id": "570",
+            "name": "Chachi",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "571",
+            "name": "Slippy",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "572",
+            "name": "Robot Snake",
+            "status": "unknown",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "573",
+            "name": "Snake Hitler",
+            "status": "Dead",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "574",
+            "name": "Snake Lincoln",
+            "status": "Dead",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "575",
+            "name": "Snake Resistance Robot",
+            "status": "Dead",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "576",
+            "name": "Snake Linguist",
+            "status": "unknown",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "577",
+            "name": "Snake Terminator",
+            "status": "unknown",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "578",
+            "name": "Snake Soldier",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "579",
+            "name": "Snake with Legs",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "580",
+            "name": "Secret Service Snake",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "581",
+            "name": "Anchosnake",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "582",
+            "name": "Anchosnake",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "583",
+            "name": "80's snake",
+            "status": "unknown",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "584",
+            "name": "Bar Customer",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "585",
+            "name": "Bartender",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "586",
+            "name": "PC Basketball Player",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "587",
+            "name": "Cavesnake",
+            "status": "Dead",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "588",
+            "name": "Pet Shop Employee",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "589",
+            "name": "Snake Reporter",
+            "status": "Alive",
+            "lastLoc": "Snake Planet"
+        },
+        {
+            "id": "590",
+            "name": "High Pilot",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "591",
+            "name": "High Pilot",
+            "status": "unknown",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "592",
+            "name": "Phoenixperson",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "593",
+            "name": "Tickets Please Guy",
+            "status": "Dead",
+            "lastLoc": "Non-Diegetic Alternative Reality"
+        },
+        {
+            "id": "594",
+            "name": "Floaty Bloody Man",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "595",
+            "name": "Floaty Non-Gasm Brotherhood Member",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "596",
+            "name": "Floaty Non-Gasm Brotherhood Member Friend",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "597",
+            "name": "Abradolf Lincler",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "598",
+            "name": "Biblesaurus",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "599",
+            "name": "Birdperson",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "600",
+            "name": "Cats Fan",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "601",
+            "name": "Christmas Storyteller",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "602",
+            "name": "Cookies Guy",
+            "status": "Alive",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "603",
+            "name": "Crossy",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "604",
+            "name": "Female Scorpion",
+            "status": "Dead",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "605",
+            "name": "Floaty Bloody Man�s Daughter",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "606",
+            "name": "Goomby",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "607",
+            "name": "Hairspray Fan",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "608",
+            "name": "Jesus Christ",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "609",
+            "name": "Josh",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "610",
+            "name": "Josh's Sister",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "611",
+            "name": "Leah",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "612",
+            "name": "Marcus",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "613",
+            "name": "Mike Johnson",
+            "status": "Alive",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "614",
+            "name": "Mr. Celery & Friends",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "615",
+            "name": "Musical Fan",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "616",
+            "name": "Phantom of the Opera Fan",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "617",
+            "name": "Phoenixperson",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "618",
+            "name": "Private Smith",
+            "status": "unknown",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "619",
+            "name": "Professor Sanchez",
+            "status": "Dead",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "620",
+            "name": "Ramamama Lord",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "621",
+            "name": "Ruth Bader Ginsburg",
+            "status": "Alive",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "622",
+            "name": "Sarge",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "623",
+            "name": "Shrek The Musical Fan",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "624",
+            "name": "Snuffles",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "625",
+            "name": "Storylord",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "626",
+            "name": "Tammy Guetermann",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "627",
+            "name": "The Concept of Time",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "628",
+            "name": "Beth Smith",
+            "status": "Alive",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "629",
+            "name": "Summer Smith",
+            "status": "Alive",
+            "lastLoc": "Morty�s Story"
+        },
+        {
+            "id": "630",
+            "name": "Morty Smith",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "631",
+            "name": "Rick Sanchez",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "632",
+            "name": "Train Cop",
+            "status": "Dead",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "633",
+            "name": "Train Cops",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "634",
+            "name": "Train Cops Instructor",
+            "status": "Dead",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "635",
+            "name": "Darth Poopybutthole",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "636",
+            "name": "Evil Morty",
+            "status": "Alive",
+            "lastLoc": "Ricks�s Story"
+        },
+        {
+            "id": "637",
+            "name": "Morty�s Disguise",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "638",
+            "name": "Rick�s Disguise",
+            "status": "Alive",
+            "lastLoc": "Story Train"
+        },
+        {
+            "id": "639",
+            "name": "Uncle Nibbles",
+            "status": "Dead",
+            "lastLoc": "Tickets Please Guy Nightmare"
+        },
+        {
+            "id": "640",
+            "name": "Angry Glorzo",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "641",
+            "name": "Bruce",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "642",
+            "name": "Council of Glorzos Member",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "643",
+            "name": "Council of Glorzos Member",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "644",
+            "name": "Old Glorzo",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "645",
+            "name": "Shane",
+            "status": "unknown",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "646",
+            "name": "Steve",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "647",
+            "name": "Troy",
+            "status": "Dead",
+            "lastLoc": "Glorzo Asteroid"
+        },
+        {
+            "id": "648",
+            "name": "Crystal Dealers Boss",
+            "status": "Dead",
+            "lastLoc": "Alien Acid Plant"
+        },
+        {
+            "id": "649",
+            "name": "Crystal Dealer",
+            "status": "Dead",
+            "lastLoc": "Alien Acid Plant"
+        },
+        {
+            "id": "650",
+            "name": "Crystal Dealer",
+            "status": "Dead",
+            "lastLoc": "Alien Acid Plant"
+        },
+        {
+            "id": "651",
+            "name": "Crystal Dealer",
+            "status": "Dead",
+            "lastLoc": "Alien Acid Plant"
+        },
+        {
+            "id": "652",
+            "name": "SWAT Officer",
+            "status": "Dead",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "653",
+            "name": "Plane Crash Survivor",
+            "status": "unknown",
+            "lastLoc": "Near-Duplicate Reality"
+        },
+        {
+            "id": "654",
+            "name": "Plane Crash Survivor",
+            "status": "unknown",
+            "lastLoc": "Near-Duplicate Reality"
+        },
+        {
+            "id": "655",
+            "name": "Heroine Keith",
+            "status": "Alive",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "656",
+            "name": "Impervious to Acid SWAT Officer",
+            "status": "Dead",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "657",
+            "name": "Johnny Carson",
+            "status": "Alive",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "658",
+            "name": "Sonia Sotomayor",
+            "status": "Alive",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "659",
+            "name": "Morty�s Father-in-law",
+            "status": "Alive",
+            "lastLoc": "Near-Duplicate Reality"
+        },
+        {
+            "id": "660",
+            "name": "Morty�s Mother-in-law",
+            "status": "Alive",
+            "lastLoc": "Near-Duplicate Reality"
+        },
+        {
+            "id": "661",
+            "name": "Morty�s Girlfriend",
+            "status": "Alive",
+            "lastLoc": "Merged Universe"
+        },
+        {
+            "id": "662",
+            "name": "Gaia",
+            "status": "Alive",
+            "lastLoc": "Gaia"
+        },
+        {
+            "id": "663",
+            "name": "Reggie",
+            "status": "Dead",
+            "lastLoc": "Gaia"
+        },
+        {
+            "id": "664",
+            "name": "Ticktock",
+            "status": "unknown",
+            "lastLoc": "Gaia"
+        },
+        {
+            "id": "665",
+            "name": "Florflock",
+            "status": "Alive",
+            "lastLoc": "Gaia"
+        },
+        {
+            "id": "666",
+            "name": "Squeeb",
+            "status": "Alive",
+            "lastLoc": "Gaia"
+        },
+        {
+            "id": "667",
+            "name": "Defiance Beth",
+            "status": "Alive",
+            "lastLoc": "Earth (Replacement Dimension)"
+        },
+        {
+            "id": "668",
+            "name": "Defiance Squanchette",
+            "status": "Alive",
+            "lastLoc": "Defiance's Ship"
+        },
+        {
+            "id": "669",
+            "name": "Defiance Doctor",
+            "status": "Alive",
+            "lastLoc": "Defiance's Base"
+        },
+        {
+            "id": "670",
+            "name": "New Improved Galactic Federation Guard",
+            "status": "Dead",
+            "lastLoc": "NX-5 Planet Remover"
+        },
+        {
+            "id": "671",
+            "name": "New Improved Galactic Federation Guard",
+            "status": "Dead",
+            "lastLoc": "NX-5 Planet Remover"
+        }
+    ]
+}
